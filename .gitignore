@@ -11,4 +11,6 @@ makefile
 *.out
 *.log
 *sol*
+*Solution*
+*Sol*
 
