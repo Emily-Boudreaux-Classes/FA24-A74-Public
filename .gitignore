@@ -10,4 +10,5 @@ TODO
 makefile
 *.out
 *.log
+*sol*
 
